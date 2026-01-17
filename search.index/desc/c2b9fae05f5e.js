@@ -1,0 +1,1 @@
+rd_("CcCreates a new handler table with all entries empty.AoReturns the argument unchanged.BaCalls <code>U::from(self)</code>.BgHandles the event with the given index.AmThe type of an event handler.BdA lock-free table of event handlers.mhandler_tableBhRegisters a handler for the given index.BlUnregisters the handler for the given index.")
